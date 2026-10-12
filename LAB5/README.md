@@ -1,1 +1,3 @@
-
+LAB 5: Thiết lập quản trị tường lửa pfsense
+Nguyễn Trần Tường Vy_11_DH_TTMT_1150070051
+Môi trường thực hiện bài lab được xây dựng trên nền tảng ảo hóa Oracle VM VirtualBox, sử dụng pfSense CE 2.7.2 làm thiết bị tường lửa và định tuyến mạng, Windows Server 2022 làm máy chủ và Windows 11 làm hệ điều hành máy tính vật lý. Hệ thống mạng được chia thành ba vùng chính gồm WAN kết nối với mạng bên ngoài thông qua Bridged Adapter, LAN sử dụng Host-only Adapter với địa chỉ mạng 10.0.0.0/8 và DMZ sử dụng địa chỉ mạng 172.16.0.0/16. Trong môi trường này, các chức năng được thực hành bao gồm cấu hình quy tắc tường lửa, kiểm soát lưu lượng giữa các vùng mạng, cấu hình NAT và Port Forward, đồng thời bật và phân tích nhật ký Firewall Log để theo dõi hoạt động mạng và kiểm tra các quy tắc bảo mật.
