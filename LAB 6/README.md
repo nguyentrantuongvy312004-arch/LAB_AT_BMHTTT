@@ -1,1 +1,1 @@
-
+Lab 6: XÁC THỰC ACTIVE DIRECTORY VÀ CHÍNH SÁCH TRUY CẬP TRÊN PFSENSE, Nguyễn Trần Tường Vy_11_DH_TTMT_1150070051. Môi trường bài lab sử dụng VirtualBox để mô phỏng hệ thống mạng, pfSense làm tường lửa, Windows Server triển khai dịch vụ mạng và Active Directory, kết hợp máy khách Windows để kiểm tra kết nối và các chính sách truy cập giữa các mạng WAN, LAN và DMZ.
